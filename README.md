@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hawam
 - 👀 I’m interested in Game Development
-- 🌱 I’m currently learning Cloud DevOps Engineer from Udacity
+- 🌱 I’m currently learning VR
 - 💞️ I’m looking to collaborate on Unity projects
 - 📫 How to reach me Ahmed_hwm@hotmail.com
 
